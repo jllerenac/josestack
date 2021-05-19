@@ -12,7 +12,7 @@ gem 'rails', '~> 5.1.7'
 gem 'sqlite3'
 gem 'slim'
 # Use Puma as the app server
- gem 'puma', '~> 3.7'
+ gem 'puma', '~> 4.3'
 # jllerena: I changed here to use webrick as the default web server 
 #gem 'webrick', '~> 1.4'
 # jllerena: I am using devise for authentication 
